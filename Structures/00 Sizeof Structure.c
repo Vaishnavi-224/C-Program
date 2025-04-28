@@ -7,7 +7,7 @@ struct stud
      char City[10];
      int RNO;
      float Per;
-};
+}
 
 int main()
 {
